@@ -6,6 +6,7 @@ Above files contains assignments during my multivarite data analysis course and 
 2.Partial least square regression(PLS)
 
 3.Cluster analysis(CA)
+
     -Ward's method
     
     -Average method
@@ -18,4 +19,4 @@ Above files contains assignments during my multivarite data analysis course and 
     
 4.Discriminant analysis(DA)
 
-5.Canonical correlation analysis(COA)
+5.Canonical correlation analysis(CCA)
